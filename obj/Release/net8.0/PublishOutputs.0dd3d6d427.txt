@@ -1,0 +1,7 @@
+C:\Users\sunny\OneDrive\Desktop\test\out\test.exe
+C:\Users\sunny\OneDrive\Desktop\test\out\appsettings.Development.json
+C:\Users\sunny\OneDrive\Desktop\test\out\appsettings.json
+C:\Users\sunny\OneDrive\Desktop\test\out\test.dll
+C:\Users\sunny\OneDrive\Desktop\test\out\test.deps.json
+C:\Users\sunny\OneDrive\Desktop\test\out\test.runtimeconfig.json
+C:\Users\sunny\OneDrive\Desktop\test\out\test.pdb
