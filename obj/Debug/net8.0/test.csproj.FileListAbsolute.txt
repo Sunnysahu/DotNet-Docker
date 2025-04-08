@@ -32,3 +32,5 @@ C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\refint\test.dll
 C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\test.pdb
 C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\test.genruntimeconfig.cache
 C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\ref\test.dll
+C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\test.sourcelink.json
+C:\Users\sunny\OneDrive\Desktop\test\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
