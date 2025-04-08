@@ -11,5 +11,6 @@ app.MapGet("/", () => "Hello World!");
 app.MapGet("/hello", () => "Hello!");
 app.MapGet("/sunny", () => "Hello sunny!");
 app.MapGet("/sanjana", () => "Hello sanjana!");
+app.MapGet("/dance", () => "Hello dance!");
 
 app.Run();
